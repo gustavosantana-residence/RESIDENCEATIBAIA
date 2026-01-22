@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main_style.css">
+    <title>Portaria_Atibaia_Residence</title>
+</head>
+<body>
+<header><h2>PORTARIA ATIBAIA RESIDENCE</h2>
+
+</header>
+<div class="button_centralizer">
+   <a href="https://docs.google.com/forms/d/e/1FAIpQLSezAUgAUM5SjVTZKW2h_aqe3dVcKK9phdF0SlKR197zBjunjQ/viewform" class="btn-master" target="_blank" rel="noopener noreferrer">CADASTRAR VEÍCULO</a>
+   <a href="http://127.0.0.1:5000/atualizar" class="btn-master" target="_blank">ACESSAR PLANILHA</a>
+   <a href="http://127.0.0.1:5000/atualizar-somente" class="btn-master" target="_blank">ATUALIZAR</a>
+</div>
+</body>
+</html>
